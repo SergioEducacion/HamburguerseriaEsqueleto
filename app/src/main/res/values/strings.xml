@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HamburguerseriaEsqueleto</string>
+    <string name="p1">PantallaInicio</string>
+    <string name="p2">PantallaPedidoActual</string>
+    <string name="p3">PantallaHistoricoPedidos</string>
+</resources>
